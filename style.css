@@ -1,0 +1,32 @@
+h1 {
+    color:blueviolet;
+    font-size: 2em;
+}
+
+body {
+background-color: rgb( 245 , 450 ,100);
+font-size: 20px;
+}
+
+#extinct-specie {
+background-color: aqua;
+}
+
+#description {
+color: brown;
+}
+
+.list-style {
+background-color: blue;
+color: aliceblue;
+font-weight: bold;
+font-style: italic;
+line-height: 40px;
+text-align: center;
+text-decoration: underline;
+}
+
+p {
+font-family: monospace;
+}
+
