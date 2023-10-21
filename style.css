@@ -6,6 +6,7 @@ h1 {
 body {
 background-color: black;
 font-size: 20px;
+height: auto;
 }
 
 #extinct-specie {
@@ -15,6 +16,10 @@ color: black;
 
 #description {
 color: white;
+}
+
+#rodape {
+ padding-bottom: 0%;
 }
 
 .list-style {
@@ -35,4 +40,10 @@ font-family: monospace;
     width: 80%;
     height: 300px;
     
+}
+
+footer {
+    background-color: white;
+    scroll-padding-inline-end: 200px;
+
 }
